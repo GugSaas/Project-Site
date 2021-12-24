@@ -20,4 +20,7 @@ header{
 
 header img{
     flex-direction: column;
+    width: 32px;
+    height: 32px;
+    align-items: center;
 }
