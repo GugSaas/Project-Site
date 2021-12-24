@@ -22,5 +22,5 @@ header img{
     flex-direction: column;
     width: 32px;
     height: 32px;
-    text-align: center;
+    justify-content: center;
 }
