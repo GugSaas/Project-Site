@@ -16,11 +16,12 @@ main{
 
 header{
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 header img{
     flex-direction: column;
     width: 32px;
     height: 32px;
-    justify-content: center;
 }
