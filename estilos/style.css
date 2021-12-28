@@ -21,7 +21,7 @@
 .first{
     width: 225px;
     height: 225px;
-    background-image: url('../../../../Desktop/Perfil.jpg');
+    background-image: url('/images/Perfil.jpg');
     background-repeat: no-repeat;
 	background-size: cover;
     background-position: center;
