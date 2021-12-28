@@ -21,7 +21,7 @@
 section.first{
     width: 225px;
     height: 225px;
-    background-image: url('/images/Perfil.png');
+    background-image: url('../images/Perfil.png');
     background-size: cover;
     background-position: center;
     transition: 0.2 ease-in-out;
